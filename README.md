@@ -10,6 +10,9 @@
 
 ## What is this
 
- This project was started to learn Node JS. 
  The goal is to make a web app able to:
- 
+
+ 1. Teach myself NodeJS, Mysql, Database
+ 2. Create a tool that can be used by my household
+ 3. Track user's Museum progress
+ 4. Familiarize myself with Visual Studio Code's hotkeys and quick actions 
